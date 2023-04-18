@@ -25,22 +25,22 @@
 5. [Análise_de_Campanhas_de_Marketing(3_Temas)](https://app.powerbi.com/view?r=eyJrIjoiM2YzNGE1YjctYWI2Ni00ZmI1LWI3ZDctZGZmYzdkZDAyZmRiIiwidCI6ImQzODEyYzgxLWQ0ZmUtNDQxOS04NzU3LTA0ODM1MTFhYmQ0MiJ9&pageName=ReportSection)
 Tema: Clean
 <p align="center">
-    <img width="470" src="Dash_Marketing/Prévia/Dash_MKT-1(Tema_Clean).png"/>
+    <img width="470" src="Dash_Marketing/Prévia/3_Temas/Dash_MKT-1(Tema_Clean).png"/>
 </p>
 
 Tema: Dark
 <p align="center">
-    <img width="470" src="Dash_Marketing/Prévia/Dash_MKT-1(Tema_Dark).png"/>
+    <img width="470" src="Dash_Marketing/Prévia/3_Temas/Dash_MKT-1(Tema_Dark).png"/>
 </p>
 
 Tema: Moonlight
 <p align="center">
-    <img width="470" src="Dash_Marketing/Prévia/Dash_MKT-1(Tema_Moonlight).png"/>
+    <img width="470" src="Dash_Marketing/Prévia/3_Temas/Dash_MKT-1(Tema_Moonlight).png"/>
 </p>
 
 6. Análise_de_Campanhas_de_Marketing(Tema_Claro)
 <p align="center">
-    <img width="470" src="Dash_Marketing/Prévia/Dash_MKT-1.png"/>
+    <img width="470" src="Dash_Marketing/Prévia/Tema_Claro/Dash_MKT-1.png"/>
 </p>
 
 7. Análise_de_Dados_Comerciais
