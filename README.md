@@ -12,7 +12,15 @@
 
 5. [Análise_de_Campanhas_de_Marketing(3_Temas)](https://app.powerbi.com/view?r=eyJrIjoiM2YzNGE1YjctYWI2Ni00ZmI1LWI3ZDctZGZmYzdkZDAyZmRiIiwidCI6ImQzODEyYzgxLWQ0ZmUtNDQxOS04NzU3LTA0ODM1MTFhYmQ0MiJ9&pageName=ReportSection)
 
-6. [Análise_de_Campanhas_de_Marketing(Tema_Claro)]
+6. Análise_de_Campanhas_de_Marketing(Tema_Claro)
+
+7. Análise_de_Dados_Comerciais
+
+8. Análise_de_Dados_RH
+<p align="center">
+    <img width="470" src="Dash_RH/Prévia/Dash_RH.png"/>
+</p>
+
 
 -------------------------------------------- 
 
